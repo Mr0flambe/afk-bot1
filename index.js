@@ -1,3 +1,4 @@
+console.log("Starting Mineflayer bot…");
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
